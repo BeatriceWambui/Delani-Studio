@@ -61,3 +61,9 @@ h1,p{
     height:50px;
     width:50px;
 } */
+.form{
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-color: none;
+    opacity:0.5%;
+    padding:10%;
+}
