@@ -7,6 +7,7 @@
     padding-top:20%;
 }
 h1,p{
+    font-family: 'DM Serif Display', serif;
     color: white;
     padding-bottom: 5px;
     padding-top:10px;
@@ -21,5 +22,42 @@ h1,p{
 .hoover{
     padding-top:9%;
     padding-bottom:10px;
-
 }
+
+.container-fluid p,h2{
+    color:black;
+    text-align: center;
+}
+
+.services{
+    text-align:center;
+    background-image: url("../images/backgrounds/s_image.jpg");
+    padding-top: 10%;
+    padding-bottom:10%;
+}
+.services p,h2{
+    color:white;
+}
+
+.row img{
+    padding-left:25%;
+    padding-right:10%;
+}
+.row p{
+    padding-right:30%;
+}
+.row{
+    padding-left:10%;
+    padding-right:10%;
+}
+.one{
+    color:black;
+    text-align: center;
+}
+.row,#one{
+    padding:10px;
+}
+/* .col-md-3 img{
+    height:50px;
+    width:50px;
+} */
