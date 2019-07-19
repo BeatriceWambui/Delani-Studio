@@ -54,11 +54,11 @@ h1,p{
     color:black;
     text-align: center;
 }
-.form{
+#form{
     background-image: url(../images/backgrounds/c_image.jpg);
     padding:15%;
 }
-.form{
+#form{
 padding-left:25%;
 padding-right:25%;
 }

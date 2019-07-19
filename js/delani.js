@@ -39,3 +39,19 @@ $(document).ready(function(){
 });
 });
 
+$(document).ready(function(){
+    $("form#form").submit(function(event){
+        var name =$("input#name").val();
+        var email =$("input#email").val();
+        if ($("input#name").val() && $("input#email").val && $("input#message").val !=""){
+        alert ("**Dear " + name+ "** " + email + ". "+ " " + "**We have received your message. "+" Thank you for reaching out" );
+        }else{
+            alert("Please enter correct data.")
+        }
+
+    })
+})
+
+
+
+
