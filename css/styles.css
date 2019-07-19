@@ -89,3 +89,6 @@ height:200px;
     padding-top:20px;
     text-align: center;
 }
+#hide1,#hide2,#hide3{
+    display:none;
+}
