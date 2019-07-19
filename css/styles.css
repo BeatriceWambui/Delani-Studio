@@ -39,11 +39,11 @@ h1,p{
     color:white;
 }
 
-.row img{
-    padding-left:25%;
-    padding-right:10%;
+.col-md-4 img{
+    padding-left:20%;
+    padding-right:20%;
 }
-.row p{
+.col-md-4 p{
     padding-right:30%;
 }
 .row{
@@ -54,16 +54,38 @@ h1,p{
     color:black;
     text-align: center;
 }
-.row,#one{
-    padding:10px;
-}
-/* .col-md-3 img{
-    height:50px;
-    width:50px;
-} */
 .form{
     background-image: url(../images/backgrounds/c_image.jpg);
-    background-color: none;
-    opacity:0.5%;
-    padding:10%;
+    padding:15%;
+}
+.form{
+padding-left:25%;
+padding-right:25%;
+}
+#name{
+    background-color: transparent;
+    width:250px;
+}
+#email{
+    background-color:transparent;
+    width: 250px;
+}
+#message{
+background-color:transparent;
+padding-right:10%;
+width:510px;
+height:200px;    
+}
+.col-md-3 img{
+    height:200px;
+    width: 200px;
+    padding-bottom: 20px;
+    }
+.col-md-3{
+    padding-left:4%;
+    padding-right:20%;
+    }
+.icons{
+    padding-top:20px;
+    text-align: center;
 }
