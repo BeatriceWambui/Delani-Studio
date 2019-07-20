@@ -1,5 +1,5 @@
 # Delani-Studio
-This is a website on Delani studio
+This is a website on Delani studio.
 
 ## Author
 * Beatrice Wambui.
@@ -12,7 +12,7 @@ This is a website on Delani studio
 ## Setup Instruction
 * ctrl+alt+t
 * git clone https://github.com/BeatriceWambui/Delani-studio.git
-* cd Akan-Birthdays
+* cd Delani-Studio
 
 ## BDD
 The project should display a Landing page for a fictional studio called Delani.
@@ -21,7 +21,7 @@ The user should be in a position to:
 * Hover between the About icons and read more about Delani.
 * Enter a message of their comments.
 * See an alert message incase nothing is written on the user form.
-* Click the submit button to see Their names and a thankyou message.
+* Click the submit button to see their names and a thank you message.
 
 ## Technologies used
 * html
