@@ -38,7 +38,7 @@ Email
 **wachirabeatice2020@gmail.com**
 
 ## License & Copyright
-  MIT license
-  copyright@BeatriceWambui2019
+ * MIT license
+ * copyright@BeatriceWambui2019
 
 

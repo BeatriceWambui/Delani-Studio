@@ -48,7 +48,6 @@ $(document).ready(function(){
         }else{
             alert("Please enter correct data.")
         }
-
         event.preventDefault();
 
     });

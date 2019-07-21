@@ -54,6 +54,7 @@
     color:black;
     text-align: center;
 }
+
 /* style on the form */
 #form{
     background-image: url(../images/backgrounds/c_image.jpg);
@@ -95,6 +96,7 @@ height:200px;
 #hide1,#hide2,#hide3{
     display:none;
 }
+
 /* hovering effects */
  #name1{
      font-family: 'Anton', sans-serif;
@@ -204,6 +206,7 @@ height:200px;
     height:200px;
     padding: 30%;
 }
+
 /* style on the mouse icon */
 #mose{
     display: none;  
