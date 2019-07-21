@@ -7,6 +7,7 @@ This is a website of a fictional studio by the name Delani studio.
 * Student Moringa School.
 
 ## Live Page Display
+* Click here view the display of the live page.
  https://BeatriceWambui.github.io/Delani-Studio/
 
 ## Setup Instruction
