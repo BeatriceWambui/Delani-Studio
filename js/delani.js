@@ -49,9 +49,12 @@ $(document).ready(function(){
             alert("Please enter correct data.")
         }
 
+        event.preventDefault();
+
     });
 });
 
+// jQuery on about icons
 $(document).ready(function(){
     $("#work1").hover(function(){
         $("#name1").show();
@@ -116,6 +119,7 @@ $(document).ready(function(){
     });
 });
 
+// jQuery on mouse icon
 $(document).ready(function(){
     $("#mouse").click(function(){
     $("#mose").toggle();
