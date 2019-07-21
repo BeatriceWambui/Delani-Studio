@@ -117,10 +117,10 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $(#mouse).click(function(){
-        
-    })
-})
+    $("#mouse").click(function(){
+    $("#mose").toggle();
+    });
+});
 
 
 
