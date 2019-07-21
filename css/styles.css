@@ -6,7 +6,7 @@
     text-align: center;
     padding-top:20%;
 }
-h1,p{
+.delani h1,p{
     color: white;
     padding-bottom: 5px;
     padding-top:10px;
@@ -53,6 +53,7 @@ h1,p{
     color:black;
     text-align: center;
 }
+/* style on the form */
 #form{
     background-image: url(../images/backgrounds/c_image.jpg);
     padding:15%;
@@ -75,6 +76,8 @@ padding-right:10%;
 width:510px;
 height:200px;    
 }
+
+/* style on the about icons */
 .col-md-3 img{
     height:200px;
     width: 200px;
@@ -91,7 +94,9 @@ height:200px;
 #hide1,#hide2,#hide3{
     display:none;
 }
+/* hovering effects */
  #name1{
+     font-family: 'Anton', sans-serif;
      display:none;
      color:red;
      background-color: beige;
@@ -106,90 +111,96 @@ height:200px;
 
 #name2{
     display:none;
-    font-family: 'Butcherman', cursive;
+    font-family: 'Anton', sans-serif;
     font-size:20px;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 
 #name3{
     display:none;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 
 #name4{
     display:none;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 #name5{
     display:none;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 #name6{
     display:none;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 #name7{
     display:none;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 #name8{
     display:none;
-     color:red;
-     background-color: beige;
-     opacity: 0.5;
-     position: absolute;
-     top:0px;
-     left:42px;
-     width:200px;
-     height:200px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
     padding: 30%;
 }
 #mose{
