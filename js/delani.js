@@ -116,5 +116,11 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $(#mouse).click(function(){
+        
+    })
+})
+
 
 
